@@ -60,6 +60,7 @@ body {
     color: #fff;
     text-decoration: none;
     text-align: center;
+    display: none;
 }
 .top a:hover{
     background: #28a745;
