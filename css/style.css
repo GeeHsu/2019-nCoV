@@ -66,3 +66,14 @@ body {
     background: #28a745;
     color: #222;
 }
+
+@media screen and (max-width: 576px){
+    .top a:hover{
+        background: #222;
+        color: #fff;
+    }
+    .top a:active{
+        background: #28a745;
+        color: #222;
+    }
+}
